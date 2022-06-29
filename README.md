@@ -1,13 +1,13 @@
 
 
-> Vue App used web service marvel API
+> Consumo de api-rest proveniente de developer.marvel.com 
 
 
 ## 🚀 Instalacion
 
 ```
-$ git clone https://github.com/gabriel-roque/marvel-app
-$ cd marvel-app
+$ git clone https://github.com/davidalejandrolerea/marvel-apirest.git
+$ cd marvel-apirest
 $ npm install
 ```
 
@@ -16,6 +16,9 @@ $ npm install
 ```
 $ npm run serve
 ```
+ingresar a  http://localhost:8080/  -para fijar funcionamiento 
 
-Check app in http://localhost:8080/
 
+ETAPA 2
+
+Implementacion de un crud funcional con los datos obtenidos de la api-rest de developer.marvel.com
