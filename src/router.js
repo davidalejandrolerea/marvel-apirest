@@ -1,8 +1,8 @@
 import Vue from "vue";
 import Router from "vue-router";
-import Bienvenido from "./views/Bienvenido";
-import BuscarHeroe from "./views/character/BuscarHeroe";
-import PerfilHeroe from "./views/character/PerfilHeroe";
+import Bienvenido from "./vistas/Bienvenido";
+import BuscarHeroe from "./vistas/personaje/BuscarHeroe";
+import PerfilHeroe from "./vistas/personaje/PerfilHeroe";
 
 Vue.use(Router);
 
